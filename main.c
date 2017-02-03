@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  HandDetection
+//  Rubik's cube color detection
 //
 //  Created by Harsh Thaker on 04/01/16.
 //  Copyright (c) 2016 Harsh Thaker. All rights reserved.
